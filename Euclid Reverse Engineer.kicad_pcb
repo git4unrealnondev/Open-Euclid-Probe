@@ -452,6 +452,9 @@
   (gr_line (start 143.5 96.06066) (end 143.5 107.5) (layer "Edge.Cuts") (width 0.1) (tstamp c709c659-e00d-41ee-ac24-9c224273aeb8))
   (gr_arc (start 143.6 108.6) (mid 143.536513 108.051226) (end 143.5 107.5) (layer "Edge.Cuts") (width 0.1) (tstamp d256b06d-4645-4dab-9f43-e04701ef70bb))
   (gr_arc (start 154.4 119.8) (mid 150.760434 122.759652) (end 147.120868 119.8) (layer "Edge.Cuts") (width 0.1) (tstamp e1015f84-d658-4144-8cd2-be90fd6702bd))
+  (gr_text "By: Daddy G" (at 156.25 105.25 90) (layer "F.SilkS") (tstamp 7039605a-7fae-4020-957d-5f76f89ce67a)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
 
   (segment (start 150.75 113.5) (end 150.75 116.8) (width 0.5) (layer "F.Cu") (net 1) (tstamp 0b81aecd-5649-4064-8ad8-75c8910aeca9))
   (segment (start 153.625 113.375) (end 150.875 113.375) (width 0.5) (layer "B.Cu") (net 1) (tstamp 424c0748-378b-4a52-856c-ff21bda06e8f))
